@@ -1,6 +1,4 @@
 # Dossiers de build
-dist
-dist-ssr
 
 # Dépendances
 node_modules
