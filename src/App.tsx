@@ -178,7 +178,7 @@ function App() {
             {/* Profile Photo */}
             <div className="w-48 h-48 rounded-full overflow-hidden border-4 border-white shadow-xl">
               <img
-                src="/images/profil.jpg"
+                src="/images/profil.png"
                 alt="Photo de profil"
                 className="w-full h-full object-cover"
               />
